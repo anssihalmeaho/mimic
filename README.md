@@ -155,7 +155,7 @@ Following methods are assumed from store object:
 
 Client can give own implementations for store interface.
 There are several example modules for possible implementations
-in [store examples](store/).
+in [store examples](https://github.com/anssihalmeaho/mimic/tree/main/stores).
 
 There are following modules providing store interfaces:
 
